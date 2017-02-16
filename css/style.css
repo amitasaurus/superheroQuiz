@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Bangers');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+h1,.heading{
+	font-weight: 600;
+}
+.shadow{
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.img-well{
+	height: 300px;
+	width: auto;
+}
+.size-18{
+	font-size: 18px;
+}
+.img-container img{
+	display: block;
+	margin: auto;
+	height: 400px;
+	width: auto;
+}
+.font-comic{
+	font-family: 'Bangers', cursive;
+	letter-spacing: 3px;
+}
